@@ -1,0 +1,4 @@
+name: lzDying
+version: '${project.version}'
+main: liangzi.dying.Core
+api-version: 1.19
