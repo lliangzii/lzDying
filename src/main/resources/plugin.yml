@@ -2,3 +2,8 @@ name: lzDying
 version: '${project.version}'
 main: liangzi.dying.Core
 api-version: 1.19
+commands:
+  lzd:
+    description: "lzDying command"
+    usage: /lzd
+    permission-message: "§a[lzDying]§c你无权使用该指令"
